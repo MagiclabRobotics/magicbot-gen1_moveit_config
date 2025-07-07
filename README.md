@@ -2,6 +2,7 @@
 
 ## Overview
 This package includes [MoveIt2](https://moveit.picknik.ai/humble/) configuration and interface for the [Magicbot-Gen1](https://www.magiclab.top/human), developed by Magiclab Robotics.
+
 <img src="doc/moveit.png" width="400"/>
 
 ## Prerequisites
