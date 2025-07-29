@@ -20,7 +20,7 @@ colcon build
 source install/setup.bash
 ros2 launch magicbot-gen1_moveit_config demo.launch.py
 ```
-Then you can drag markers in Rviz to interact with the robot.
+Then you can drag markers and the ball in Rviz to interact with the robot.
 
 In the second terminal
 ```bash
