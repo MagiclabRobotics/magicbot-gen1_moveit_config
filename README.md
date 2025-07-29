@@ -14,7 +14,7 @@ sudo apt install ros-humble-ros2-control ros-humble-ros2-controllers ros-humble-
 
 ## Usages
 ```bash
-cd src
+cd magicbot-gen1_moveit_config/src
 git clone https://github.com/MagiclabRobotics/magicbot-gen1_description.git
 colcon build
 source install/setup.bash
@@ -24,7 +24,7 @@ Then you can drag markers in Rviz to interact with the robot.
 
 In the second terminal
 ```bash
-cd src
+cd magicbot-gen1_moveit_config/src
 source install/setup.bash
 ros2 run magicbot-gen1_moveit_interface magicbot-gen1_moveit_interface
 ```
